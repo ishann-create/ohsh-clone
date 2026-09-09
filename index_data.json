@@ -15,15 +15,15 @@
       "routes/_index": {
         "home": {
           "hero": {
-            "title": "hi, im ohshin.",
+            "title": "hi, im Kai.",
             "subtitle": "engineer. designer. shipper."
           },
           "about": {
             "paragraphs": [
               "I grew up on the internet cuz i had extremely early access to it, but my story starts somewhere quieter.",
               "I come from a traditional South Indian family, where belief and ritual were part of everyday life. When I was a kid, my parents had my future read by a well-known astrologer. His prediction was heavy: he said I\u2019d grow up to be the most successful and influential person my bloodline has ever seen. To this day, that sits at the back of my head. I wake up everyday trying to be shooting for the stars, so if i fall, i'll land on a cloud.",
-              "I spent six years studying electronics at a college because I watched Tron when i was 12yo, which had a huge influence on me and put me in pursuit of tech. I love building stuff. But apart from tech, I\u2019ve spent a major part of my life doing other creative work: media production, leading marketing campaigns, and hosting communities.",
-              "I've spent a fair amount of time in media. I used to work with bands, hospitality, and celebrities. Still, no matter how far I wander, I keep coming back to what I love most: building with technology."
+              "I choose studying electronics at college because I watched Tron when i was 12yo, which had a huge influence on me and put me in pursuit of tech. I love building stuff. But apart from tech, I\u2019ve spent a major part of my life doing other creative work: media production, leading marketing campaigns, and hosting communities.",
+              "I've spent a fair amount of time in social media. I used to work with bands, hospitality, and influencers. Still, no matter how far I wander, I keep coming back to what I love most: building with technology."
             ]
           },
           "spotifyPlaylists": [
@@ -110,19 +110,19 @@
         "socialLinks": [
           {
             "label": "X",
-            "url": "https://x.com/ohshinbhat"
+            "url": "https://x.com/ishann_dz"
           },
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/ohshiin/"
+            "url": "https://www.instagram.com/ishann_dz/"
           },
           {
             "label": "Mail",
-            "url": "https://mail.google.com/mail/?view=cm&fs=1&to=ohshinb%40gmail.com"
+            "url": "https://mail.google.com/mail/?view=cm&fs=1&to=work.ishann%40gmail.com"
           },
           {
             "label": "LinkedIn",
-            "url": "https://www.linkedin.com/in/ohshinbhat/"
+            "url": "https://www.linkedin.com/in/ishanndz/"
           },
           {
             "label": "GitHub",
