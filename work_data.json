@@ -1,0 +1,395 @@
+{
+  "basename": "/",
+  "future": {
+    "v3_fetcherPersist": false,
+    "v3_relativeSplatPath": false,
+    "v3_throwAbortReason": false,
+    "v3_routeConfig": false,
+    "v3_singleFetch": false,
+    "v3_lazyRouteDiscovery": false,
+    "unstable_optimizeDeps": false
+  },
+  "isSpaMode": false,
+  "state": {
+    "loaderData": {
+      "routes/work": {
+        "navigationItems": [
+          {
+            "key": "about",
+            "label": "abt me",
+            "href": "/#about",
+            "visible": true
+          },
+          {
+            "key": "projects",
+            "label": "work",
+            "href": "/work",
+            "visible": true
+          }
+        ],
+        "projects": {
+          "sectionTitle": "projects",
+          "items": [
+            {
+              "id": "zeno-ui",
+              "slug": "zeno-ui",
+              "title": "Zeno UI",
+              "summary": "Token-first component system for building clean web interfaces with Tailwind-driven primitives and a theme playground.",
+              "description": "A compact UI library and playground focused on reusable primitives, tokenized styling, and fast theme iteration.",
+              "tech": [
+                "TypeScript",
+                "Tailwind",
+                "React"
+              ],
+              "githubUrl": "https://github.com/ohshinbhat/zeno-ui",
+              "liveUrl": "https://zenoui.in",
+              "image": null,
+              "featured": true,
+              "published": true,
+              "sortOrder": 1,
+              "year": 2026,
+              "role": "Engineer / Designer",
+              "status": "Live"
+            },
+            {
+              "id": "recur-obj-model",
+              "slug": "recur-obj-model",
+              "title": "Recur Obj Model",
+              "summary": "A modular video object analytics pipeline for counting unique recurring objects across an entire video, even after scene cuts.",
+              "description": "Built in Python with scene detection, sampled frame processing, YOLOv8n detection, ByteTrack tracking, and CLIP-based re-identification to merge local tracks into persistent global object IDs with analytics export.",
+              "tech": [
+                "Python",
+                "YOLOv8",
+                "ByteTrack",
+                "CLIP",
+                "Computer Vision"
+              ],
+              "githubUrl": "https://github.com/ohshinbhat/recur-obj-model",
+              "liveUrl": null,
+              "image": null,
+              "featured": false,
+              "published": true,
+              "sortOrder": 2,
+              "year": 2026,
+              "role": "ML / Vision Engineer",
+              "status": "Prototype"
+            },
+            {
+              "id": "prompt-now",
+              "slug": "prompt-now",
+              "title": "Prompt Now",
+              "summary": "A native macOS menu bar app that brings your last Codex or Claude window back after a timer so review loops do not disappear.",
+              "description": "Built with Swift and SwiftPM as a lightweight menu bar utility, with app bundle, DMG, Homebrew cask, and Mac App Store packaging paths.",
+              "tech": [
+                "Swift",
+                "SwiftPM",
+                "macOS",
+                "Homebrew"
+              ],
+              "githubUrl": "https://github.com/ohshinbhat/prompt-now",
+              "liveUrl": null,
+              "image": null,
+              "featured": false,
+              "published": true,
+              "sortOrder": 3,
+              "year": 2026,
+              "role": "macOS Engineer",
+              "status": "Shipped"
+            }
+          ]
+        },
+        "reachOut": {
+          "eyebrow": "open channels",
+          "title": "reach out",
+          "description": "Whether you're looking to collaborate, hire, seek advice, or simply start a conversation, choose the one that best matches your intent.",
+          "lanes": [
+            {
+              "id": "team",
+              "label": "01 / team channel",
+              "title": "Want me on your team?",
+              "description": "For product engineering, design engineering, growth engineering, and fast-moving teams that need someone who can ship products, systems, and distribution with equal attention to quality and speed.",
+              "actions": [
+                {
+                  "label": "email me",
+                  "href": "https://mail.google.com/mail/?view=cm&fs=1&to=ohshinb%40gmail.com&su=Hiring%20Ohshin"
+                },
+                {
+                  "label": "get resume",
+                  "href": "/resume.pdf"
+                }
+              ],
+              "segments": [
+                {
+                  "title": "Want me on your team?",
+                  "description": "For product engineering, design engineering, growth engineering, and fast-moving teams that need someone who can ship products, systems, and distribution with equal attention to quality and speed.",
+                  "actions": [
+                    {
+                      "label": "email me",
+                      "href": "https://mail.google.com/mail/?view=cm&fs=1&to=ohshinb%40gmail.com&su=Hiring%20Ohshin"
+                    },
+                    {
+                      "label": "get resume",
+                      "href": "/resume.pdf"
+                    }
+                  ]
+                },
+                {
+                  "title": "Ship the idea",
+                  "description": "Need help building something, where the idea needs to become a shipped product?",
+                  "actions": [
+                    {
+                      "label": "book a call",
+                      "href": "https://cal.com/ohshin/quick-call-ohshin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "growth",
+              "label": "02 / growth channel",
+              "title": "Want to work with me?",
+              "description": "I work with founders and startups on distribution, product launches, growth experiments, and community building that turn great products into visible ones.",
+              "actions": [
+                {
+                  "label": "book a call",
+                  "href": "https://cal.com/ohshin/lets-talk-growth"
+                }
+              ]
+            },
+            {
+              "id": "fun",
+              "label": "03 / fun channel",
+              "title": "Want to send a fun DM?",
+              "description": "For fun banter, strange product ideas, sharing playlist, side quests, or anything that feels like it doesn't belong in an email.",
+              "actions": [
+                {
+                  "label": "dm on X",
+                  "href": "https://x.com/ohshinbhat"
+                }
+              ]
+            }
+          ]
+        },
+        "socialLinks": [
+          {
+            "label": "X",
+            "url": "https://x.com/ohshinbhat"
+          },
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/ohshiin/"
+          },
+          {
+            "label": "Mail",
+            "url": "https://mail.google.com/mail/?view=cm&fs=1&to=ohshinb%40gmail.com"
+          },
+          {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/ohshinbhat/"
+          },
+          {
+            "label": "GitHub",
+            "url": "https://github.com/ohshinbhat"
+          }
+        ],
+        "techStack": {
+          "eyebrow": "stack overload",
+          "title": "tech stack",
+          "description": "Tools I use across product engineering, mobile apps, visual systems, and fast prototypes.",
+          "items": [
+            {
+              "id": "javascript",
+              "label": "Javascript",
+              "group": "language",
+              "accent": true,
+              "sortOrder": 1
+            },
+            {
+              "id": "typescript",
+              "label": "Typescript",
+              "group": "language",
+              "accent": true,
+              "sortOrder": 2
+            },
+            {
+              "id": "react",
+              "label": "ReactJs",
+              "group": "interface",
+              "accent": true,
+              "sortOrder": 3
+            },
+            {
+              "id": "react-native",
+              "label": "React Native",
+              "group": "mobile",
+              "accent": true,
+              "sortOrder": 4
+            },
+            {
+              "id": "expo",
+              "label": "Expo",
+              "group": "mobile",
+              "sortOrder": 5
+            },
+            {
+              "id": "nextjs",
+              "label": "NextJs",
+              "group": "interface",
+              "accent": true,
+              "sortOrder": 6
+            },
+            {
+              "id": "tailwind",
+              "label": "Tailwind",
+              "group": "interface",
+              "sortOrder": 7
+            },
+            {
+              "id": "python",
+              "label": "Python",
+              "group": "language",
+              "sortOrder": 8
+            },
+            {
+              "id": "graphql",
+              "label": "GraphQL",
+              "group": "data",
+              "sortOrder": 9
+            },
+            {
+              "id": "aws",
+              "label": "AWS",
+              "group": "platform",
+              "sortOrder": 10
+            },
+            {
+              "id": "figma",
+              "label": "Figma",
+              "group": "design",
+              "accent": true,
+              "sortOrder": 11
+            },
+            {
+              "id": "vite",
+              "label": "Vite",
+              "group": "tooling",
+              "sortOrder": 12
+            },
+            {
+              "id": "framer",
+              "label": "Framer",
+              "group": "motion",
+              "sortOrder": 13
+            },
+            {
+              "id": "spline",
+              "label": "Spline",
+              "group": "creative",
+              "sortOrder": 14
+            },
+            {
+              "id": "github",
+              "label": "Github",
+              "group": "platform",
+              "accent": true,
+              "sortOrder": 15
+            }
+          ]
+        },
+        "workExperience": {
+          "sectionTitle": "Experience",
+          "items": [
+            {
+              "id": "software-development-engineer-dream11",
+              "role": "Software Development Engineer",
+              "company": "Dream11",
+              "periodLabel": "Nov 2024 - Present",
+              "startDate": "2024-11-01",
+              "endDate": null,
+              "summary": "Shipped high-scale frontend features for Dream11\u2019s 250M+ user app, owning product refinements, GraphQL contracts, UI implementation, integrations, releases, and migration work from React Native to Expo.",
+              "highlights": [
+                "Built 8+ end-to-end features with animations, routing, pagination, pull-to-refresh, store, real-time AppSync and socket integrations, and privacy controls impacting 10M+ daily active users",
+                "Shipped MGMR with Expo and Tailcall, handling team creation and animated preview flows while supporting peak concurrency of 200k+ user creates",
+                "Owned GraphQL and Apollo integrations across the Dream11 app, monographQL, and microfrontend surfaces at roughly 1M+ average RPM, simplifying complex subgraphs",
+                "Built custom component libraries with Storybook and a tokens pipeline wired to design output, reducing repetitive styling changes across apps",
+                "Improved code quality and team velocity through cleanups, internal dev tools, profiling, and Retool-based no-code workflows for CMS operations"
+              ],
+              "location": "India",
+              "links": [],
+              "published": true,
+              "sortOrder": 1
+            },
+            {
+              "id": "sde-intern-logitrix",
+              "role": "SDE Intern",
+              "company": "Logitrix",
+              "periodLabel": "Feb 2024 - Jul 2024",
+              "startDate": "2024-02-01",
+              "endDate": "2024-07-31",
+              "summary": "Engineered the frontend of two products from scratch, including RIMS, a medical research dashboard for healthcare clients.",
+              "highlights": [
+                "Built multifunctional web apps for clients including Apollo and DY Patil Hospitals",
+                "Worked with React, Next.js, Tailwind, WebSockets, and Flask",
+                "Shipped production-facing product foundations from zero to usable systems"
+              ],
+              "location": "Remote",
+              "links": [],
+              "published": true,
+              "sortOrder": 2
+            },
+            {
+              "id": "frontend-dev-rewire",
+              "role": "Front-End Dev",
+              "company": "Rewire",
+              "periodLabel": "Sep 2023 - Dec 2023",
+              "startDate": "2023-09-01",
+              "endDate": "2023-12-31",
+              "summary": "Engineered and maintained web experiences for the Rewire app across frontend UI and small REST APIs on user data.",
+              "highlights": [
+                "Worked with React, Next.js, Tailwind CSS, AWS EC2, and Go",
+                "Shipped UI improvements and backend-adjacent API work in a fast-moving product environment"
+              ],
+              "location": "India",
+              "links": [],
+              "published": true,
+              "sortOrder": 3
+            }
+          ]
+        },
+        "reachStats": [
+          {
+            "href": "https://x.com/ohshinbhat",
+            "id": "x",
+            "label": "twitter",
+            "metricLabel": "Impressions",
+            "numericValue": 2000000,
+            "value": "2M+",
+            "live": false
+          },
+          {
+            "href": "https://www.instagram.com/ohshiin/",
+            "id": "instagram",
+            "label": "instagram",
+            "metricLabel": "Views",
+            "numericValue": 250000,
+            "value": "250K+",
+            "live": false
+          },
+          {
+            "id": "visits",
+            "label": "page visits",
+            "metricLabel": "Page visits",
+            "tooltip": "My previous portfolio already had 150,000 visits, so I carried that history over here.",
+            "numericValue": 161743,
+            "value": "161.7K+",
+            "live": true
+          }
+        ]
+      },
+      "root": null
+    },
+    "actionData": null,
+    "errors": null
+  }
+}
